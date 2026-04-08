@@ -10,6 +10,11 @@ EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 CATEGORIES = [
     f"{CITIZEN_INFORMATION_URL}moving-country/ukrainian-refugees-in-ireland/",
+    f"{CITIZEN_INFORMATION_URL}moving-country/irish-citizenship/",
+    f"{CITIZEN_INFORMATION_URL}moving-country/visas-for-ireland/",
+    f"{CITIZEN_INFORMATION_URL}social-welfare/social-welfare-payments-and-work/",
+    f"{CITIZEN_INFORMATION_URL}social-welfare/extra-social-welfare-benefits/",
+
 
 ]
 
