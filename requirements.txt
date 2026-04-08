@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+chromadb
+groq
+streamlit
+python-dotenv
+bs4
+httpx
+fastapi
+uvicorn
+python-telegram-bot
+apscheduler
