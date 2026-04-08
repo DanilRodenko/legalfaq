@@ -4,9 +4,7 @@ from pydantic import BaseModel
 from groq import Groq
 from dotenv import load_dotenv
 
-# Импортируем нашу функцию поиска и константы
 from rag.retriever import retrieve
-# Предполагаем, что ты создал этот файл для констант
 from scraper.config import GROQ_MODEL
 
 load_dotenv()

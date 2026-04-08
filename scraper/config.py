@@ -10,6 +10,7 @@ EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 CATEGORIES = [
     f"{CITIZEN_INFORMATION_URL}moving-country/ukrainian-refugees-in-ireland/",
+
 ]
 
 HEADERS = {
