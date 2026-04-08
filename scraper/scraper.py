@@ -74,3 +74,9 @@ def run_scraper():
 
 if __name__ == "__main__":
     run_scraper()
+    # print(vectorstore._collection.count())
+    # results = vectorstore.similarity_search("accommodation recognition payment", k=3)
+    # for r in results:
+    #     print(r.metadata["title"])
+    #     print(r.page_content[:200])
+    #     print("---")
